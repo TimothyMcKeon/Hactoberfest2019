@@ -44,3 +44,8 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+
+### Timothy 
+[TimothyMcKeon](https://github.com/timothymckeon/)
+> Something difficult isn't impossible
+---
